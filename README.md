@@ -56,6 +56,11 @@ I decided to implement a sort of "leaderboard" system, as well as a "history" sy
 
 The largest feature allowing for some idea of "future-proofing" is the implementation of the SQL Database and its tables.
 
+script.js controls the movement and the initial loading of the 2048 grid. Grid.js contains the logic for creating the 2048 grid (creating the rows and cells
+inside those rows which will have the capability of containing 'tiles' within them). Tile.js contains the logic (more so the information) of a 'Tile'. A tile
+is essentially just an 'attribute' which a cell can have (or lack), describing its purpose in the 2048 game (a "2" tile, a "4" tile, an "8" tile, etc. up to 2048).
+Lastly, transition-in-out.js contains simple (minimal) logic which controls the very simple transition which plays upon loading a new page on the web app.
+
 A demonstration of the web application, as well as going over some of the code, can be seen on the video linked at the top and below:
 ## (https://youtu.be/azbpTCtYaBw)
 
