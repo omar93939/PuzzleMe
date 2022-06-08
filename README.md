@@ -8,7 +8,7 @@ HTML, CSS, JavaScript, Python, SQL (SQLite3), Flask (Python Web Framework), Jinj
 CS50 Python Library (only SQL features), Werkzeig Security (generate and check password hashes)
 
 ## Project Name: PuzzleMe
-## Video Demo: TODO
+## Video Demo: (https://youtu.be/azbpTCtYaBw)
 
 
 ## What is the project? The Big Picture:
@@ -57,6 +57,6 @@ I decided to implement a sort of "leaderboard" system, as well as a "history" sy
 The largest feature allowing for some idea of "future-proofing" is the implementation of the SQL Database and its tables.
 
 A demonstration of the web application, as well as going over some of the code, can be seen on the video linked at the top and below:
-## TODO
+## (https://youtu.be/azbpTCtYaBw)
 
 Oh yeah, and some CSS animations/transitions were used to make switching pages a bit less boring :)
